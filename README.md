@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**javad-mortazavian/javad-mortazavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biography
+I am a [Your Profession/Title] with a passion for [Your Interests]. I have worked on [Your Key Projects or Fields] and have experience in [Your Skills/Technologies].
 
-Here are some ideas to get you started:
+## Publications
+- [Title of Publication 1](link_to_publication_1) - A brief description of what the publication is about.
+- [Title of Publication 2](link_to_publication_2) - A brief description of what the publication is about.
+- [Title of Publication 3](link_to_publication_3) - A brief description of what the publication is about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](link_to_project_1) - A brief description of the project.
+- [Project 2](link_to_project_2) - A brief description of the project.
+- [Project 3](link_to_project_3) - A brief description of the project.
+
+## Contact
+You can reach me via [Email](mailto:your_email@example.com) or follow me on [Twitter](https://twitter.com/your_twitter_handle).
