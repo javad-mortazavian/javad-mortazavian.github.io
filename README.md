@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Biography
-I am a PhD student at Cleveland State University with a passion for CWE, SciML, and certainly computational fluid mechanics. I am currently working on multi-fidelity surrogate ML models for urban fluid dynamics prediction and analysis. 
+I am a PhD student at Cleveland State University with a passion for CWE, SciML, and certainly computational fluid dynamics. I am currently working on multi-fidelity surrogate ML models for urban fluid dynamics prediction and analysis. 
 
 ## Publications
 - Urban wind energy assessment near high-rise buildings within different urban morphology: Insights from CFD and POD - ASTFE 2024 - DOI: https://doi.org/10.1615/TFEC2024.sim.051015
