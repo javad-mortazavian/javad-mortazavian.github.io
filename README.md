@@ -10,3 +10,6 @@ I am a PhD student at Cleveland State University with a passion for CWE, SciML, 
 
 ## Contact
 You can reach me via [s.mortazaviannajafabadi@vikes.csuohio.edu](mailto:your_email@example.com).
+
+
+![Project Diagram](./assets/Mortazavian- Professional headshot.jpg)
